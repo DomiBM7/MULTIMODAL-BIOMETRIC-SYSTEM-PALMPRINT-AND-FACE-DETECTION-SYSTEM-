@@ -1,6 +1,6 @@
 # Multimodal Biometric Authentication System
 
-## Author
+## Author 
 Bukasa Muyombo
 
 ## Project Overview
